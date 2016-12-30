@@ -1,2 +1,2 @@
 # ng-yn
-ng-yn project Pequi With Guariroba 4 Ever
+Project for create AngularJS components ng-yn made from GYN City with Pequi,Gueroba and Pamonha
